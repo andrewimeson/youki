@@ -1,5 +1,11 @@
 # Changelog
 
+## [v0.3.4](https://github.com/containers/youki/compare/v0.3.3...v0.3.4) - 2024-05-29
+### 💪 Improvements
+- Export max_usage in cgroups v2 mode by @HeRaNO in https://github.com/containers/youki/pull/2802
+### 🧪 Test improvements and Misc Fixes
+- Update nix to 0.28.0 by @omprakaash in https://github.com/containers/youki/pull/2728
+
 ## [v0.3.3](https://github.com/containers/youki/compare/v0.3.2...v0.3.3) - 2024-05-16
 ### 💪 Improvements
 - Add support for rsvd hugetlb cgroup by @omprakaash in https://github.com/containers/youki/pull/2719
